@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Quiz_Up</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="dialog_quit_game">Would you to like leave?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+
+    <string name="username_cannot_empty">Username cannot be empty</string>
+    <string name="password_cannot_empty">Password cannot be empty</string>
+    <string name="old_password_cannot_be_empty">Old Password cannot be empty</string>
+    <string name="new_password_cannot_be_empty">New Password cannot be empty</string>
+    <string name="confirm_new_password_cannot_be_empty">Confirm New Password cannot be empty</string>
+    <string name="literature">Literature</string>
+    <string name="geography">Mathematics</string>
+    <string name="math">Math</string>
+    <string name="finish">Finish</string>
+    <string name="next">Next</string>
+    <string name="literature_quiz">Literature</string>
+    <string name="geography_quiz">Geography</string>
+    <string name="rules1_description">The quiz contains 10 random questions.</string>
+    <string name="rules2_description">Each correct answer will give you 5 points.</string>
+    <string name="rules3_description">Each wrong answer will cost you 2 points.</string>
+    <string name="rules4_description">
+Your results are saved and collected in your history.
+    </string>
+
+</resources>
