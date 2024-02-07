@@ -1,7 +1,3 @@
-# Easy-Quiz-App
-
-![image](https://user-images.githubusercontent.com/108933534/215812414-8ffb0156-8332-4779-8fb3-adb1594107c3.png)
-
 Introducing "Quiz_Up" – Your Ultimate Quiz Companion!
 
 Are you ready to embark on a thrilling journey of knowledge, challenge, and fun? Look no further, because Quiz_Up is here to redefine your quiz-taking experience! With a blend of exciting features and a unique twist, Quiz_Up stands out as the ultimate quiz app on Android Studios.
